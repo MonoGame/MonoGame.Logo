@@ -3,7 +3,7 @@ MonoGame Logo And Logotype
 
  - The "MONO" is Proxima Nova Regular.
  - The "GAME" is Proxima Nova Bold.
- - The "MONO" is normally colored #393939.
+ - The "MONO" is normally colored #393939 or #ffffff.
  - The "GAME" and logo are normally colored #e73c00.
 
 
