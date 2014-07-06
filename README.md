@@ -10,7 +10,7 @@ MonoGame Logo And Logotype
 Layouts
 =======
 
- Type            | Image
+ Type            | Preview Image
  --------------- | :-----------------------------------------------:
  Horizontal Logo | <img src="PreviewHorizontalLogo.png?raw=true" />
  Square Logo     | <img src="PreviewSquareLogo.png?raw=true" />
