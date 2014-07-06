@@ -10,10 +10,10 @@ MonoGame Logo And Logotype
 Layouts
 =======
 
- - Horizontal Logo<br><img height='128' src="PreviewHorizontalLogo.png?raw=true" />
- - Logo Only
- - Square Logo
- - Vertical Logo
+ - Horizontal Logo<br><img src="PreviewHorizontalLogo.png?raw=true" />
+ - Logo Only<br><img src="PreviewLogoOnly.png?raw=true" />
+ - Square Logo<br><img src="PreviewSquareLogo.png?raw=true" />
+ - Vertical Logo<br><img src="PreviewVerticalLogo.png?raw=true" />
 
 
 Colors
