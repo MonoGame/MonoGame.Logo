@@ -12,10 +12,10 @@ Layouts
 
  Type            | Preview Image
  --------------- | :-----------------------------------------------:
- Horizontal Logo | <img src="PreviewHorizontalLogo.png?raw=true" />
- Square Logo     | <img src="PreviewSquareLogo.png?raw=true" />
- Vertical Logo   | <img src="PreviewVerticalLogo.png?raw=true" /> 
- Logo Only       | <img src="PreviewLogoOnly.png?raw=true" />
+ Horizontal Logo | <img src="FullColorOnLight/HorizontalLogo_64px.png?raw=true" />
+ Square Logo     | <img src="FullColorOnLight/SquareLogo_128px.png?raw=true" />
+ Vertical Logo   | <img src="FullColorOnLight/VerticalLogo_128px.png?raw=true" /> 
+ Logo Only       | <img src="FullColorOnLight/LogoOnly_128px.png?raw=true" />
 
 
 Colors
